@@ -1,1 +1,1 @@
-# firease-baisc
+# firebase-basic
